@@ -1,0 +1,7 @@
+# Ignore Power BI cache and system files 
+*.pbix.lock 
+*.tmp 
+*.cache 
+*.png 
+*.jpg 
+Thumbs.db 
