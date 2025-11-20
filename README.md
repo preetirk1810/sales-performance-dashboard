@@ -48,35 +48,35 @@
 
 
 
-sales-performance-dashboard/
+# sales-performance-dashboard/
 
-│
+# │
 
-├── data/
+# ├── data/
 
-│ └── Sales\_Data\_5000\_Rows.csv
+# │ └── Sales\_Data\_5000\_Rows.csv
 
-│
+# │
 
-├── pbix/
+# ├── pbix/
 
-│ └── Sales\_Performance\_Dashboard.pbix
+# │ └── Sales\_Performance\_Dashboard.pbix
 
-│
+# │
 
-├── images/
+# ├── images/
 
-│ └── dashboard\_overview.png
+# │ └── dashboard\_overview.png
 
-│ └── top\_products.png
+# │ └── top\_products.png
 
-│ └── monthly\_sales\_trend.png
+# │ └── monthly\_sales\_trend.png
 
-│
+# │
 
-├── README.md
+# ├── README.md
 
-└── .gitignore
+# └── .gitignore
 
 
 
