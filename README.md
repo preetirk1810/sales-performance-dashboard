@@ -35,7 +35,7 @@ SalesPerformanceDashboard/
 
 📌 Note: If your .pbix file is larger than 100 MB, you will need Git LFS.
 
-\##🧹 Data Cleaning \& Preparation
+## 🧹 Data Cleaning \& Preparation
 
 Performed in Power Query:
 
@@ -91,33 +91,19 @@ Certain low-selling products indicate potential optimization opportunities
 
 
 
-\## 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-
-
-\### Main Dashboard
-
+### Main Dashboard
 !\[Dashboard](images/dashboard-main.png)
 
-
-
-\### KPI Section
-
+### KPI Section
 !\[KPI](images/dashboard-kPI.png)
 
-
-
-\### Revenue Trend
-
+### Revenue Trend
 !\[Trend](images/dashboard-trend.png)
 
-
-
-\### Top Products
-
+### Top Products
 !\[Trend](images/dashboard-top-product.png)
-
-&nbsp;
 
 ## 🛠 Tools \& Technologies Used
 
