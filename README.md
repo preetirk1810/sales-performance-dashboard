@@ -94,7 +94,7 @@ Certain low-selling products indicate potential optimization opportunities
 ## 📷 Dashboard Preview
 
 ### Advanced Dashboard
-![sales-performance-dashboard](images/dashboard-main.png)
+![sales-performance-dashboard](images/Advanced-dashboard-main.png)
 
 ### KPI Section
 ![sales-performance-dashboard](images/dashboard-kPI.png)
