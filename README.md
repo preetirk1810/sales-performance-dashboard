@@ -105,6 +105,8 @@ Certain low-selling products indicate potential optimization opportunities
 ### Top Products
 ![sales-performance-dashboard](images/dashboard-top-product.png)
 
+### Basic Dashboard
+![sales-performance-dashboard](images/Basic-Dashboard-main.png)
 ## 🛠 Tools \& Technologies Used
 
 Power BI Desktop
