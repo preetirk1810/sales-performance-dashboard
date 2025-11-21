@@ -31,11 +31,11 @@ SalesPerformanceDashboard/
 │── pbix/      → Power BI file  
 │── images/    → Dashboard screenshots  
 │── docs/      → Additional documentation  
-│── README.md  → Project documentation  
+│── README.md  → Project documentation
 
 📌 Note: If your .pbix file is larger than 100 MB, you will need Git LFS.
 
-##🧹 Data Cleaning & Preparation
+\##🧹 Data Cleaning \& Preparation
 
 Performed in Power Query:
 
@@ -49,7 +49,8 @@ Removed blank and error rows
 
 Standardized formatting for consistency
 
-## 📊 Dashboard Features
+## 📊 Basic Dashboard Features
+
 🔹 KPI Cards
 
 Total Revenue
@@ -75,6 +76,7 @@ A filled map visualizing region-wise revenue contributions.
 Summary of revenue, quantity sold, and average unit price for each product.
 
 
+
 ## ⭐ Insights
 
 (Replace these with your actual insights after analyzing the dashboard.)
@@ -87,7 +89,37 @@ Region East contributes the most revenue
 
 Certain low-selling products indicate potential optimization opportunities
 
-## 🛠 Tools & Technologies Used
+
+
+\## 📷 Dashboard Preview
+
+
+
+\### Main Dashboard
+
+!\[Dashboard](images/dashboard-main.png)
+
+
+
+\### KPI Section
+
+!\[KPI](images/dashboard-kPI.png)
+
+
+
+\### Revenue Trend
+
+!\[Trend](images/dashboard-trend.png)
+
+
+
+\### Top Products
+
+!\[Trend](images/dashboard-top-product.png)
+
+&nbsp;
+
+## 🛠 Tools \& Technologies Used
 
 Power BI Desktop
 
@@ -95,7 +127,7 @@ Power Query
 
 DAX
 
-Git & GitHub
+Git \& GitHub
 
 CSV Dataset for analytics
 
@@ -120,3 +152,4 @@ GitHub: https://github.com/preetirk1810
 ## 📄 License
 
 This project is released under the MIT License — free to use, modify, and distribute.
+
