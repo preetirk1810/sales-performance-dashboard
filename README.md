@@ -93,17 +93,17 @@ Certain low-selling products indicate potential optimization opportunities
 
 ## 📷 Dashboard Preview
 
-### Main Dashboard
-!\[sales-performance-dashboard](images/dashboard-main.png)
+### Advanced Dashboard
+![sales-performance-dashboard](images/dashboard-main.png)
 
 ### KPI Section
-!\[sales-performance-dashboard](images/dashboard-kPI.png)
+![sales-performance-dashboard](images/dashboard-kPI.png)
 
 ### Revenue Trend
-!\[sales-performance-dashboard](images/dashboard-trend.png)
+![sales-performance-dashboard](images/dashboard-trend.png)
 
 ### Top Products
-!\[sales-performance-dashboard](images/dashboard-top-product.png)
+![sales-performance-dashboard](images/dashboard-top-product.png)
 
 ## 🛠 Tools \& Technologies Used
 
