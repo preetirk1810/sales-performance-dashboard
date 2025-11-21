@@ -2,6 +2,4 @@
 *.pbix.lock 
 *.tmp 
 *.cache 
-*.png 
-*.jpg 
 Thumbs.db 
